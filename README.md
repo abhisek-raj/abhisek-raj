@@ -1,82 +1,63 @@
+# 💫 About Me:
+🌌 **What I'm currently working on**<br>
+I'm a passionate developer exploring the world of AI, backend development, and automation. I'm currently working on AI-powered applications and backend services to solve real-world problems.<br><br>
 
-# Abishek17rkl
+👥 **What I'm looking to collaborate on**<br>
+I'm open to collaborations on AI, machine learning, and full-stack projects. If you're working on something innovative in these areas, I'd love to contribute!<br><br>
 
-## 💫 About Me
+🤝 **What I'm looking for help with**<br><br>
+- Optimizing AI models for better performance<br>
+- Improving backend services for scalability<br>
+- Enhancing automation scripts for efficiency<br>
+- Advanced techniques in cloud computing and DevOps<br><br>
 
-🌌 **What I'm currently working on:**
-I'm an aspiring Machine Learning Engineer and Data Analyst, developing AI-driven accessibility solutions like real-time Indian Sign Language (ISL) translation tools and Conversational Image Recognition Chatbots. I also work on data analytics, computer vision, and NLP-based AI models, applying my skills in TensorFlow, Keras, and Power BI to solve real-world problems.
+🌱 **What I'm currently learning**<br>
+I'm diving deeper into cloud computing, DevOps practices, and advanced AI algorithms to improve my skills and build more robust applications.<br><br>
 
-👥 **What I'm looking to collaborate on:**
-I'm open to collaborations in machine learning, AI for accessibility, NLP, computer vision, and data visualization. If you're building assistive technology, AI-powered chatbots, or real-time ISL interpreters, I'd love to contribute!
+💬 **Topics people can ask me about**<br><br>
+- Backend Development (Flask, Django, Node.js)<br>
+- AI and Machine Learning (TensorFlow, PyTorch)<br>
+- Cloud Computing (AWS, Docker, Kubernetes)<br>
+- Automation Scripts (Python, Bash)<br><br>
 
-🤝 **What I'm looking for help with:**
-- Optimizing deep learning models for real-time translation
-- Improving 3D avatar animations for ISL gestures
-- Enhancing AI-powered accessibility tools
-- Advanced data visualization techniques in Power BI
+⚡ **A fun fact about me**<br>
+Beyond coding, I love solving coding challenges and building automation scripts to simplify everyday tasks. I also enjoy playing cricket and participating in hackathons.<br><br>
 
-🌱 **What I'm currently learning:**
-I'm diving deeper into Generative AI, transfer learning, and real-time NLP models, along with advanced data visualization techniques to improve AI-driven decision-making.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhisek.raj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisek.raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisek-raj)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhisek_raj)
 
-💬 **Topics people can ask me about:**
-- Machine Learning & Deep Learning (CNNs, NLP, TensorFlow, Keras)
-- AI for Accessibility (Indian Sign Language translation, speech-to-text models)
-- Data Science & Analytics (Power BI, Python, R, visualization)
-- Real-Time AI Applications
-
-⚡ **A fun fact about me:**
-Beyond AI and coding, I’m active in my college's Arts & Dramatics club and enjoy playing cricket. I love blending creativity with technology to build impactful solutions!
-
-## 🌐 Socials
-
-- [Facebook](#)
-- [Instagram](#)
-- [LinkedIn](#)
-- [Quora](#)
-
-## 💻 Tech Stack
-
-- **Languages:** C, HTML5, JavaScript, Java, Python, PowerShell
-- **Frameworks & Libraries:** Anaconda, Flask, Express.js, Django, NPM, Next.js, NodeJS, OpenCV, Streamlit
-- **Databases:** Firebase, Postgres, MySQL, MongoDB
-- **Tools:** Figma, Keras, Matplotlib, mlflow, NumPy, Pandas, Plotly, PyTorch, TensorFlow, Scipy, scikit-learn, Power BI
-
-## 🚀 Let's build something innovative together!
-
-## 📊 GitHub Stats
-
-[![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek17rkl&show_icons=true&theme=radical)](https://github.com/Abishek17rkl)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abishek17rkl)](https://github.com/Abishek17rkl)
-
-## ✍️ Random Dev Quote
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
-
-## Popular Repositories
-
-- [Translator-app](https://github.com/Abishek17rkl/Translator-app)
-- [Resume_Builder](https://github.com/Abishek17rkl/Resume_Builder)
-- [Boston-housing-prediction](https://github.com/Abishek17rkl/Boston-housing-prediction)
-- [node_new](https://github.com/Abishek17rkl/node_new)
-- [temp-node-tut](https://github.com/Abishek17rkl/temp-node-tut)
-
-## Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek17rkl&theme=radical)
-
-## Recent Contributions
-
-- **February 2025:**
-  - [Translator-app](https://github.com/Abishek17rkl/Translator-app) - 6 commits
-  - [Abishek17rkl](https://github.com/Abishek17rkl/Abishek17rkl) - 4 commits
-  - [Resume_Builder](https://github.com/Abishek17rkl/Resume_Builder) - 3 commits
-  - [Boston-housing-prediction](https://github.com/Abishek17rkl/Boston-housing-prediction) - 1 commit
-  - [node_new](https://github.com/Abishek17rkl/node_new) - 1 commit
-  - [temp-node-tut](https://github.com/Abishek17rkl/temp-node-tut) - 1 commit
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-© 2025 GitHub, Inc.
+🚀 **Let's build something innovative together!**
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhisek-raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhisek-raj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek-raj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhisek-raj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
