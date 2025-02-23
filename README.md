@@ -1,31 +1,82 @@
-## Hi there 👋, I'm Abhisek Raj!
 
-Welcome to my GitHub profile! I'm a passionate developer exploring the world of AI, backend development, and automation. 
+# Abishek17rkl
 
-### 🚀 About Me
-- 🔭 I’m currently working on AI-powered applications and backend services.
-- 🌱 I’m always learning new technologies in AI, cloud computing, and DevOps.
-- 👯 I’m open to collaborations on AI, machine learning, and full-stack projects.
-- 💬 Ask me about backend development, AI models, and database management.
-- ⚡ Fun fact: I love solving coding challenges and building automation scripts.
+## 💫 About Me
 
-### 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks & Libraries:** Flask, Django, React, TensorFlow
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other Tools:** Docker, Git, AWS, Kubernetes
+🌌 **What I'm currently working on:**
+I'm an aspiring Machine Learning Engineer and Data Analyst, developing AI-driven accessibility solutions like real-time Indian Sign Language (ISL) translation tools and Conversational Image Recognition Chatbots. I also work on data analytics, computer vision, and NLP-based AI models, applying my skills in TensorFlow, Keras, and Power BI to solve real-world problems.
 
-### 📌 Featured Projects
-- 🚀 [Chai Backend](https://github.com/abhisek-raj/chai-backend) - Scalable backend services for a chatbot.
-- 🤖 [AI Medical Bot](https://github.com/abhisek-raj/project-ai-medical-bot) - An AI-based virtual medical assistant.
-- 🎬 [Movies Recommender](https://github.com/abhisek-raj/movies_recommender) - A recommendation system for movies.
+👥 **What I'm looking to collaborate on:**
+I'm open to collaborations in machine learning, AI for accessibility, NLP, computer vision, and data visualization. If you're building assistive technology, AI-powered chatbots, or real-time ISL interpreters, I'd love to contribute!
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisek-raj&show_icons=true&theme=radical)
+🤝 **What I'm looking for help with:**
+- Optimizing deep learning models for real-time translation
+- Improving 3D avatar animations for ISL gestures
+- Enhancing AI-powered accessibility tools
+- Advanced data visualization techniques in Power BI
 
-### 📫 Connect with Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+🌱 **What I'm currently learning:**
+I'm diving deeper into Generative AI, transfer learning, and real-time NLP models, along with advanced data visualization techniques to improve AI-driven decision-making.
 
-Let's connect and build something amazing! 🚀
+💬 **Topics people can ask me about:**
+- Machine Learning & Deep Learning (CNNs, NLP, TensorFlow, Keras)
+- AI for Accessibility (Indian Sign Language translation, speech-to-text models)
+- Data Science & Analytics (Power BI, Python, R, visualization)
+- Real-Time AI Applications
+
+⚡ **A fun fact about me:**
+Beyond AI and coding, I’m active in my college's Arts & Dramatics club and enjoy playing cricket. I love blending creativity with technology to build impactful solutions!
+
+## 🌐 Socials
+
+- [Facebook](#)
+- [Instagram](#)
+- [LinkedIn](#)
+- [Quora](#)
+
+## 💻 Tech Stack
+
+- **Languages:** C, HTML5, JavaScript, Java, Python, PowerShell
+- **Frameworks & Libraries:** Anaconda, Flask, Express.js, Django, NPM, Next.js, NodeJS, OpenCV, Streamlit
+- **Databases:** Firebase, Postgres, MySQL, MongoDB
+- **Tools:** Figma, Keras, Matplotlib, mlflow, NumPy, Pandas, Plotly, PyTorch, TensorFlow, Scipy, scikit-learn, Power BI
+
+## 🚀 Let's build something innovative together!
+
+## 📊 GitHub Stats
+
+[![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek17rkl&show_icons=true&theme=radical)](https://github.com/Abishek17rkl)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abishek17rkl)](https://github.com/Abishek17rkl)
+
+## ✍️ Random Dev Quote
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+
+## Popular Repositories
+
+- [Translator-app](https://github.com/Abishek17rkl/Translator-app)
+- [Resume_Builder](https://github.com/Abishek17rkl/Resume_Builder)
+- [Boston-housing-prediction](https://github.com/Abishek17rkl/Boston-housing-prediction)
+- [node_new](https://github.com/Abishek17rkl/node_new)
+- [temp-node-tut](https://github.com/Abishek17rkl/temp-node-tut)
+
+## Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek17rkl&theme=radical)
+
+## Recent Contributions
+
+- **February 2025:**
+  - [Translator-app](https://github.com/Abishek17rkl/Translator-app) - 6 commits
+  - [Abishek17rkl](https://github.com/Abishek17rkl/Abishek17rkl) - 4 commits
+  - [Resume_Builder](https://github.com/Abishek17rkl/Resume_Builder) - 3 commits
+  - [Boston-housing-prediction](https://github.com/Abishek17rkl/Boston-housing-prediction) - 1 commit
+  - [node_new](https://github.com/Abishek17rkl/node_new) - 1 commit
+  - [temp-node-tut](https://github.com/Abishek17rkl/temp-node-tut) - 1 commit
+
+---
+
+© 2025 GitHub, Inc.
